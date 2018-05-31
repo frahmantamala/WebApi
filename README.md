@@ -1,5 +1,5 @@
 # WebApi
-Basic Rest Api CRUD With ASP.NET Core EntityFramework & SQL Server 
+Rest Api CRUD With ASP.NET Core EntityFramework & SQL Server 
 
 # Testing
 - Clone this repo
